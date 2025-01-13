@@ -1,0 +1,21 @@
+
+.border-color{
+    border:2px solid tomato;
+    padding:20px;
+    display:inline-block;
+}
+
+
+.student-list{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-around;
+    width:800px;
+   
+}
+.student-list >div{
+    border: 1px solid black;
+}
+.margin-left{
+    margin-left: 10px;
+}
